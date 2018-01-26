@@ -4,7 +4,7 @@
 
 Fasony is a new free magento 2 theme to download. It features stunning premade layout that is designed in customer-oriented way. Thus, you can display your products in the best way.
 
-This free magento 2 theme is build with Bootstrap 3.x and compatible with the latest magento version. Especially, image slider is run by owl carousel that are optimized for touch drag n drop.
+This [Fasony magento 2 theme](http://www.venustheme.com/theme/ves-fasony-free-magento2-theme/) is build with Bootstrap 3.x and compatible with the latest magento version. Especially, image slider is run by owl carousel that are optimized for touch drag n drop.
 
 Believe in us and take a look at the demo to see how great it is!
 
@@ -14,7 +14,7 @@ Believe in us and take a look at the demo to see how great it is!
 ## 1. Documentation
 
 - Installation guide: http://venustheme.com/guides/ves_kasitoo/
-- Download from our Live site: 
+- Download from our Live site: http://www.venustheme.com/theme/ves-fasony-free-magento2-theme/
 - Get Support: https://venustheme.ticksy.com/
 
 
